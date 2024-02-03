@@ -52,15 +52,6 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ekushay-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png", Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 tvg-id="cdn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.pngg", CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/ToonTubers_logo_2019.png/revision/latest/scale-to-width-down/300?cb=20190917183759", TOON TUBERS
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png", Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/1200px-TRT_World_logosu.png", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 

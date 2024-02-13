@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel Bangla (1080p)
-https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://timetvusa.com/wp-content/uploads/2022/12/123-logo-final-layers.png", Time TV USA
 https://livess.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
@@ -21,6 +19,9 @@ https://livess.jagobd.com.bd/live-orgin/canbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="bijoytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png", Bijoy Tv 
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel Bangla (1080p)
+https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bishwabangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png", Biswa Bangla 
 https://livess.jagobd.com.bd/live-orgin/biswabanglatv.stream/chunks.m3u8

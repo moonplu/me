@@ -112,3 +112,21 @@ https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News 24
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="WMPTDT2.us",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KETSDT1.us",Arkansas PBS [Geo-blocked]
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="adult-swim",adult-swim cartoon (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
+
+#EXTINF:-1 tvg-id="cbs",cbs (1080p)
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/670ec6ee-e900-43bc-b7f7-549a1ea07978:TUL/master.m3u8

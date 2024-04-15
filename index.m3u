@@ -127,6 +127,3 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="adult-swim",adult-swim cartoon (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
-
-#EXTINF:-1 tvg-id="cbs",cbs (1080p)
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/670ec6ee-e900-43bc-b7f7-549a1ea07978:TUL/master.m3u8

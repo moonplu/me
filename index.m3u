@@ -11,7 +11,7 @@ https://dog.dg21bd.com/ADDEENWEB/index.m3u8
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 
 #EXTINF:-1, Time TV USA
-https://livess.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
+https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 
 #EXTINF:-1, TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
@@ -40,29 +40,23 @@ http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
 #EXTINF:-1, Channel24
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8
 
-#EXTINF:-1, Somoy News
-https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF:-1, Madani Channel
+#EXTINF:-1, Modina Channel
 https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 
 #EXTINF:-1, Ekhon Tv
-https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
 
 #EXTINF:-1, Atn Bangla
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 
-#EXTINF:-1, Nexus TV
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1, Atn News
+http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
 
 #EXTINF:-1, Independent TV
-https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1, Bangla Vishon
-https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
-
-#EXTINF:-1, Channel I
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 
 #EXTINF:-1, Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -77,25 +71,23 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1, Al Jazeera English
 https://livess.jagobd.com.bd/live-orgin/aljazeera.stream/playlist.m3u8
 
-
-#EXTINF:-1, ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-
 #EXTINF:-1, Madani English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 
 #EXTINF:-1, RTV
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 
+#EXTINF:-1, Channel-i
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+
 #EXTINF:-1, Jamuna TV
-https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
 
 #EXTINF:-1, N TV
-https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/chunks.m3u8
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
 
 #EXTINF:-1, Channel 24
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 
 #EXTINF:-1, DBC News 24
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8

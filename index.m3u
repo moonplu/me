@@ -7,6 +7,9 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 group-title="Entertainment", BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
 
+#EXTINF:-1 group-title="Entertainment", BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/12/123-logo-final-layers.png", Time TV USA
 https://livess.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
 

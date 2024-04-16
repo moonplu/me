@@ -39,8 +39,6 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ekushay-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png", Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/1200px-TRT_World_logosu.png", TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png", Depto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
@@ -54,26 +52,10 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png", Al Jazeera English
 https://livess.jagobd.com.bd/live-orgin/aljazeera.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png", Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/2560px-CBS_News_logo_%282020%29.svg.png", Cbs News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2013.png", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png", ABC News New York
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.cbsnews.com/assets/live_cards/video-door-newyork@1x.png", CBS News New York
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lymedisease.org/wp-content/uploads/2016/07/fox5ny-logo-1.jpg", FOX 5 New York
-https://lnc-wnyw.tubi.video/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.urdupoint.com/live-tv/logo/1537786853_pic.jpg", Madani English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
@@ -93,8 +75,4 @@ https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News 24
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="adult-swim",adult-swim cartoon (1080p)
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8

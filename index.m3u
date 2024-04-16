@@ -1,20 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="MadaniBangla" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel Bangla (1080p)
+#EXTINF:-1,Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment", BTV World
-http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
+#EXTINF:-1,Ad-Deen (1080p)
+https://dog.dg21bd.com/ADDEENWEB/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment", BTV Chattogram
-http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/12/123-logo-final-layers.png", Time TV USA
+#EXTINF:-1, Time TV USA
 https://livess.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.tbn24.com/favicon.png", TBN 24
-https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TBN 24
+http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
+
+#EXTINF:-1, BTV
+http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
+
+#EXTINF:-1, BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
+
+#EXTINF:-1, BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
+
+
+#EXTINF:-1, Independent Television
+http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8
+
+#EXTINF:-1, Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
+
+#EXTINF:-1, MAASRANGA TV palki
+http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8
+
+#EXTINF:-1, News24
+http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
+
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png", Somoy News
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8

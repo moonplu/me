@@ -13,15 +13,9 @@ https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png", Somoy News
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="bijoytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png", Bijoy Tv 
-https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="MadaniChannel" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel
 https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="b24c" tvg-logo="https://play-lh.googleusercontent.com/oZX5THr0KJ6g-r1ou1Vx278Xw5BnmXYdjHXg4LMqo2vwVj7Oj8XNPTr7fhPL-pYp8XO8", B24
-https://livess.jagobd.com.bd/live-orgin/b24c.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ekhontv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
@@ -30,7 +24,7 @@ https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="boishakitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishaki Tv
-https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="nexustv" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8

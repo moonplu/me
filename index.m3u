@@ -4,6 +4,9 @@
 #EXTINF:-1,Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
+#EXTINF:-1, Jamuna TV
+http://livess.jagobd.com.bd/live-orgin/nexustv.stream/playlist.m3u8
+
 #EXTINF:-1,Ad-Deen (1080p)
 https://dog.dg21bd.com/ADDEENWEB/index.m3u8
 
@@ -17,16 +20,19 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 
 #EXTINF:-1, BTV
-http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
+http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 
 #EXTINF:-1, BTV World
-http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
+http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 
 #EXTINF:-1, BTV Chattogram
-http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
+http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 
 #EXTINF:-1, Independent Television
 http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8
+
+#EXTINF:-1, SATV
+http://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1, Ekattor TV
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
@@ -38,7 +44,7 @@ http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8
 http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
 
 #EXTINF:-1, Channel24
-http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8
+http://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1, Modina Channel
 https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
@@ -47,7 +53,7 @@ https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
 
 #EXTINF:-1, Atn Bangla
-http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1, Atn News
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
@@ -56,11 +62,10 @@ http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1, Bangla Vishon
-http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1, Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
-
 
 #EXTINF:-1, My TV
 https://myflixbd.com/0.m3u8
@@ -78,10 +83,10 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1, Channel-i
-http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+http://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-1, Jamuna TV
-http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
+http://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-1, N TV
 http://cdn01.palki.tv/live/NTV-M/index.m3u8

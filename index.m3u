@@ -8,8 +8,6 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 #EXTINF:-1, Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1, JagoNews24
-http://livess.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1, Madani English

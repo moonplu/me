@@ -1,109 +1,18 @@
-#EXTM3U
-#EXT-X-VERSION:3
-
 #EXTINF:-1,Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-
 #EXTINF:-1, Somoy News TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
-
 #EXTINF:-1, Time TV USA
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
-
-#EXTINF:-1, JagoNews24
-http://livess.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
-
 #EXTINF:-1, TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
-
-#EXTINF:-1, BTV
-http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-
-#EXTINF:-1, BTV World
-http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-
-#EXTINF:-1, BTV Chattogram
-http://livess.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-
-#EXTINF:-1, Independent Television
-http://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8
-
-#EXTINF:-1, SATV
-http://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
-
-#EXTINF:-1, Ekattor TV
-http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
-
-#EXTINF:-1, MAASRANGA TV
-http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8
-
-#EXTINF:-1, News24
-http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
-
-#EXTINF:-1, Channel24
-http://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-
-#EXTINF:-1, Modina Channel
-https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
-
-#EXTINF:-1, Ekhon Tv
-http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
-
-#EXTINF:-1, Atn Bangla
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
-
-#EXTINF:-1, Atn News
-http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
-
-#EXTINF:-1, Independent TV
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
-
-#EXTINF:-1, Bangla Vishon
-https://livess.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
-
 #EXTINF:-1, Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
-
-#EXTINF:-1, My TV
-https://myflixbd.com/0.m3u8
-
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-
-#EXTINF:-1, Channel I
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
-
-
-#EXTINF:-1, Al Jazeera English
-https://livess.jagobd.com.bd/live-orgin/aljazeera.stream/playlist.m3u8
-
 #EXTINF:-1, Madani English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-
-#EXTINF:-1, RTV
-https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8
-
-#EXTINF:-1, Channel-i
-http://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
-
-#EXTINF:-1, Jamuna TV
-http://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-
-#EXTINF:-1, Makkah TV
-http://livess.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8
-
-#EXTINF:-1, N TV
-http://cdn01.palki.tv/live/NTV-M/index.m3u8
-
-#EXTINF:-1, Channel 24
-http://cdn01.palki.tv/live/Channel24-M/index.m3u8
-
-#EXTINF:-1, DBC News 24
-https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
-
 #EXTINF:-1, Nasa TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
 #EXTINF:-1,Al Jazeera Mubasher [Qatar]
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-

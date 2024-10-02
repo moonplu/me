@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="33227" tvg-logo="https://a.jsrdn.com/hls/22851/elevator-pitch-1/logo_20200610_163709.png" group-title="DistroTV: Business",Entrepreneur
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
+#EXTINF:-1 tvg-id="89260" tvg-logo="https://a.jsrdn.com/hls/23072/ted/logo_20220831_225521_68.png" group-title="DistroTV: Education",TED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
+#EXTINF:-1 tvg-id="85174" tvg-logo="https://a.jsrdn.com/hls/23029/masala-entertainment-plus/logo_20220621_225225_68.png" group-title="DistroTV: Entertainment",Masala Entertainment Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
+#EXTINF:-1 tvg-id="95229" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-espanol/logo_20221206_220518_68.png" group-title="DistroTV: News",CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+#EXTINF:-1 tvg-id="83817" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20220609_171333_68.png" group-title="DistroTV: Travel",4K TRAVEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1,LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
+#EXTINF:-1,CNN Headlines (Geo)
+https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8
+#EXTINF:-1,BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
+#EXTINF:-1,Cheddar
+https://2eb2684fa9c3497587d24bf19cf627cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Cheddar/playlist.m3u8
+#EXTINF:-1,Cheddar Alt
+https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8
+#EXTINF:-1,Reuters (Geo)
+https://amg00453-reuters-amg00453c1-vizio-us-2107.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-vizious/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://9be5baa1e6a743938e02d0bc48d8bf48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_QuickTake/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals Alt
+https://bloomberg-quicktake-3-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Yahoo Finance (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-yahoofinance-vizio/playlist.m3u8
+#EXTINF:-1,Yahoo Finance Alt
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Schwab Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8
+#EXTINF:-1,CBC News
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885505/hls/master.m3u8
+#EXTINF:-1,CBS News New York by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc48170e280c80009a861ab/master.m3u8
+#EXTINF:-1,AWE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+

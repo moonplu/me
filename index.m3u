@@ -8,11 +8,15 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 #EXTINF:-1, Ekushay tv
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1, JagoNews24
+http://livess.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1, Madani English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1, Nasa TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,Al Jazeera English [Qatar]
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,Al Jazeera Mubasher [Qatar]
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8

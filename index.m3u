@@ -2,8 +2,6 @@
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1,Diyanet TV [Turkish]
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1, Somoy News TV
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1, Time TV USA
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1, TBN 24
@@ -26,8 +24,6 @@ https://mytvbangla.com/0.m3u8
 http://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1,Jamuna Tv
-https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Jago News 24
 https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,R tv

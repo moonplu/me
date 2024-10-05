@@ -46,3 +46,19 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1,Al Arabia[Saudi]
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Akit Tv [TURKISH]
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1, Alqanat 9[TURKISH]
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1, Alshoob Tv [Turkish]
+https://rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
+#EXTINF:-1, Bir Tv [Turkish]
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1,Can Tv [Turkish]
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1, Diyanet TV [Turkish]
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1, Ekoltv TV [Turkish]
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1, Yirmidort [Turkish]
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8

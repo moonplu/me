@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull
+
 # File path of the M3U playlist
 M3U_FILE="index.m3u"
 TEMP_FILE=$(mktemp)

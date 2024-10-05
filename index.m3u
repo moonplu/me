@@ -10,8 +10,32 @@ http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1, Asian TV
+https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1, Bangla Vision
+http://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1,SA-TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1, Channel I
+http://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1,Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,My Tv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1,DBC News
+http://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1,Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,Jamuna Tv
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,Jago News 24
+https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1,R tv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#EXTINF:-1,Varendra Tv
+https://global.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
+#EXTINF:-1 ,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1,Iqra TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:-1, Madani English
@@ -22,3 +46,11 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,Al Jazeera Mubasher [Qatar]
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+
+
+
+
+
+
+

@@ -46,11 +46,5 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,Al Jazeera Mubasher [Qatar]
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1,Al Arabia[Saudi]
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8

@@ -36,6 +36,22 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,Al Jazeera Mubasher [Qatar]
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1, Al Hayat [Arabic]
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1, Al Jazeera [Arabic]
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1, Al Mayadeen [Arabic]
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1, Alaraby Tv [Arabic]
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1, DW [Arabic]
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1, Al Aqsa TV [Arabic]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1, RT [Arabic]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1, TRT Arabi [Arabic]
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Al Arabia[Saudi]
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,Diyanet TV [Turkish]
@@ -60,19 +76,3 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1, AIRE Sports [Spanish]
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1, Al Hayat [Arabic]
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:-1, Al Jazeera [Arabic]
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1, Al Mayadeen [Arabic]
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1, Alaraby Tv [Arabic]
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1, DW [Arabic]
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1, Al Aqsa TV [Arabic]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1, RT [Arabic]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1, TRT Arabi [Arabic]
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8

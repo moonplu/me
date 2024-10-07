@@ -10,8 +10,6 @@ http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1, Asian TV
-https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1, Bangla Vision
 http://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1, Channel I
@@ -42,8 +40,6 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1, Al Jazeera [Arabic]
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1, Al Mayadeen [Arabic]
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1, Alaraby Tv [Arabic]
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1, DW [Arabic]
@@ -78,5 +74,3 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1, AIRE Sports [Spanish]
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
-

@@ -1,11 +1,14 @@
 #!/bin/bash
 
+# Update the repository
 git pull
 
 # File path of the M3U playlist
 M3U_FILE="index.m3u"
 TEMP_FILE=$(mktemp)
-REPLACEMENT_URL="https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8"
+
+# Fallback link for broken URLs
+FALLBACK_URL="https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8"
 
 # Check if the M3U file exists
 if [ ! -f "$M3U_FILE" ]; then
@@ -20,18 +23,14 @@ while IFS= read -r line; do
         # Check the URL and capture the HTTP response code
         HTTP_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "$line")
         
-        # If the response is 200, write to the temporary file; otherwise, use the replacement URL
+        # If the response is 200, write the line to the temporary file; otherwise, use the fallback URL
         if [ "$HTTP_RESPONSE" -eq 200 ]; then
-            echo "$PREV_LINE" >> "$TEMP_FILE"
             echo "$line" >> "$TEMP_FILE"
         else
-            echo "$PREV_LINE" >> "$TEMP_FILE"
-            echo "$REPLACEMENT_URL" >> "$TEMP_FILE"
+            echo "$FALLBACK_URL" >> "$TEMP_FILE"
         fi
     else
-        # Store the previous line to check against the next URL
-        PREV_LINE="$line"
-        # Write non-URL lines directly to the temp file
+        # Write non-URL lines (like #EXTINF) directly to the temp file
         echo "$line" >> "$TEMP_FILE"
     fi
 done < "$M3U_FILE"
@@ -39,8 +38,9 @@ done < "$M3U_FILE"
 # Replace the original M3U file with the updated temporary file
 mv "$TEMP_FILE" "$M3U_FILE"
 
-echo "Updated $M3U_FILE. Invalid links have been replaced with the specified URL."
+echo "Updated $M3U_FILE. Broken links have been replaced with the fallback URL."
 
-git add .
-git commit -m "replaced invalid links with nosig.m3u8"
+# Commit changes to the repository
+git add "$M3U_FILE"
+git commit -m "Updated m3u file: replaced broken links with fallback URL"
 git push

@@ -1,7 +1,7 @@
 #EXTINF:-1,Madani Bangla [Bengali] 
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1,Somoy News[Bengali] 
-https://sparkling-haze-782a.fqfrhakssmho.workers.dev/channel/UCNUFterLJ9vpFZZ0try7sLA.m3u8
+https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1, Time TV USA [Bengali] 
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1, TBN 24 [Bengali] 
@@ -21,7 +21,7 @@ http://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 #EXTINF:-1,Jago News 24 [Bengali] 
 https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,R tv [Bengali] 
-https://sparkling-haze-782a.fqfrhakssmho.workers.dev/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,Varendra Tv [Bengali] 
 https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,Desh Tv [Bengali] 
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,Nagorik [Bengali] 
 https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,Jamuna TV [Bengali] 
-https://sparkling-haze-782a.fqfrhakssmho.workers.dev/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,Independent TV [Bengali] 
 https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
 #EXTINF:-1,ATN Bangla [Bengali] 

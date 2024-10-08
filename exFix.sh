@@ -1,30 +1,46 @@
 #!/bin/bash
 
-# Define the replacement link
-replacement_link="https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8"
+# Update the repository
+git pull
 
-# Temporary file to store the updated content
-temp_file=$(mktemp)
+# File path of the M3U playlist
+M3U_FILE="extra.m3u"
+TEMP_FILE=$(mktemp)
 
-# Read the extra.m3u file line by line
+# Fallback link for broken URLs
+FALLBACK_URL="https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8"
+
+# Check if the M3U file exists
+if [ ! -f "$M3U_FILE" ]; then
+    echo "M3U file not found: $M3U_FILE"
+    exit 1
+fi
+
+# Read the M3U file and check each URL
 while IFS= read -r line; do
-    # Check if the line is a URL (starts with http:// or https://)
-    if [[ $line =~ ^https?:// ]]; then
-        # Use curl to check if the link is working
-        if curl --output /dev/null --silent --head --fail "$line"; then
-            # Link is working, keep it as is
-            echo "$line" >> "$temp_file"
+    # Check if the line contains a URL
+    if [[ $line == http* ]]; then
+        # Check the URL and capture the HTTP response code
+        HTTP_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "$line")
+        
+        # If the response is 200, write the URL to the temporary file; otherwise, write the fallback URL
+        if [ "$HTTP_RESPONSE" -eq 200 ]; then
+            echo "$line" >> "$TEMP_FILE"
         else
-            # Link is not working, replace with the replacement link
-            echo "$replacement_link" >> "$temp_file"
+            echo "$FALLBACK_URL" >> "$TEMP_FILE"
         fi
     else
-        # Not a URL, keep the line as is
-        echo "$line" >> "$temp_file"
+        # Write non-URL lines (like #EXTINF) directly to the temp file
+        echo "$line" >> "$TEMP_FILE"
     fi
-done < "extra.m3u"
+done < "$M3U_FILE"
 
-# Replace the original file with the updated content
-mv "$temp_file" "extra.m3u"
+# Now we need to ensure the #EXTINF lines are written only once
+mv "$TEMP_FILE" "$M3U_FILE"
 
-echo "Link check and replacement completed."
+echo "Updated $M3U_FILE. Broken links have been replaced with the fallback URL."
+
+# Commit changes to the repository
+git add "$M3U_FILE"
+git commit -m "Updated m3u file: replaced broken links with fallback URL"
+git push

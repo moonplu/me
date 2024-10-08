@@ -23,7 +23,7 @@ while IFS= read -r line; do
         # Check the URL and capture the HTTP response code
         HTTP_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "$line")
         
-        # If the response is 200, write the line to the temporary file; otherwise, use the fallback URL
+        # If the response is 200, write the URL to the temporary file; otherwise, write the fallback URL
         if [ "$HTTP_RESPONSE" -eq 200 ]; then
             echo "$line" >> "$TEMP_FILE"
         else
@@ -35,7 +35,7 @@ while IFS= read -r line; do
     fi
 done < "$M3U_FILE"
 
-# Replace the original M3U file with the updated temporary file
+# Now we need to ensure the #EXTINF lines are written only once
 mv "$TEMP_FILE" "$M3U_FILE"
 
 echo "Updated $M3U_FILE. Broken links have been replaced with the fallback URL."

@@ -1,8 +1,11 @@
 #!/bin/bash
 
+git pull
+
 # File path of the M3U playlist
 M3U_FILE="extra.m3u"
 TEMP_FILE=$(mktemp)
+REPLACEMENT_URL="https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8"
 
 # Check if the M3U file exists
 if [ ! -f "$M3U_FILE" ]; then
@@ -17,24 +20,27 @@ while IFS= read -r line; do
         # Check the URL and capture the HTTP response code
         HTTP_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "$line")
         
-        # If the response is 200, write to the temporary file; otherwise, skip it
+        # If the response is 200, write to the temporary file; otherwise, use the replacement URL
         if [ "$HTTP_RESPONSE" -eq 200 ]; then
-            # Write the previous line (#EXTINF) and the URL to the temp file
             echo "$PREV_LINE" >> "$TEMP_FILE"
             echo "$line" >> "$TEMP_FILE"
+        else
+            echo "$PREV_LINE" >> "$TEMP_FILE"
+            echo "$REPLACEMENT_URL" >> "$TEMP_FILE"
         fi
     else
         # Store the previous line to check against the next URL
         PREV_LINE="$line"
+        # Write non-URL lines directly to the temp file
+        echo "$line" >> "$TEMP_FILE"
     fi
 done < "$M3U_FILE"
 
-# Replace the original M3U file with the cleaned temporary file
+# Replace the original M3U file with the updated temporary file
 mv "$TEMP_FILE" "$M3U_FILE"
 
-echo "Updated $M3U_FILE. Invalid links have been removed."
-
+echo "Updated $M3U_FILE. Invalid links have been replaced with the specified URL."
 
 git add .
-git commit -m "fixed"
+git commit -m "replaced invalid links with nosig.m3u8"
 git push

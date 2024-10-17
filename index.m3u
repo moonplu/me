@@ -19,7 +19,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,My Tv [Bengali] 
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1,DBC News [Bengali] 
-http://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+http://hbase.local:7872/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 #EXTINF:-1,Jago News 24 [Bengali] 
 https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,R tv [Bengali] 

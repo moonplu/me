@@ -1,0 +1,42 @@
+#EXTINF:-1, Yirmidort [Turkish]
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1, Five [Spanish]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1, Ryta [Spanish]
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1, Tv Mas [Spanish]
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1, 13 Max [Spanish]
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1, AIRE Sports [Spanish]
+#EXTINF:-1,Noor TV [Urdu] 
+https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
+#EXTINF:-1,Al Jazeera English [English]
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Al Jazeera Mubasher [Arabic]
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1, Al Hayat [Arabic]
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1, Al Jazeera [Arabic]
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1, Alaraby Tv [Arabic]
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1, DW [Arabic]
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1, Al Aqsa TV [Arabic]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1, RT [Arabic]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1, TRT Arabi [Arabic]
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Al Arabia[Arabic]
+#EXTINF:-1,Diyanet TV [Turkish]
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1,Akit Tv [TURKISH]
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1, Bir Tv [Turkish]
+https://raw.githubusercontent.com/moonplu/me/refs/heads/main/asset/nosig.m3u8
+#EXTINF:-1,Can Tv [Turkish]
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1, Ekoltv TV [Turkish]
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8

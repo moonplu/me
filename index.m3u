@@ -1,3 +1,6 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Somoy News
-http://192.168.1.178:3333/app/somoy/llhls.m3u8
-
+#EXTINF:-1,Madani Bangla [Bengali] 
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1, Time TV USA [Bengali] 
+https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
+#EXTINF:-1, TBN 24 [Bengali] 
+http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8

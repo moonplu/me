@@ -6,6 +6,22 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Time TV USA" tvg-id="56174" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ1iMIWlOlAjwVfASgeYmOWWh5_TMl9vlQw&s" group-title="National News",Time TV USA
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="National News",Ekattor TV
+https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="National News",Channel I
+https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs3D8vEtyGmhsERTa4-0KWFYSVm1PKIGArw&s" group-title="National News",RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="National News",Jamuna TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="EKHON TV" group-title="National News",EKHON TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MY TV" group-title="National News",MY TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="National News",MY TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="POGO TV" group-title="National News",POGO TV
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-id="556174" tvg-logo="https://canvas.tubitv.com/opts/CGM972sEdvuVcQ==/a9097c5c-9374-49bd-b791-639fe3c02017/CHgQeDoFMS4xLjJAAQ==" group-title="National News",NBC News NOW
 https://live-manifest.production-public.tubi.io/live/afc413b0-0c3f-4f44-8071-d2abc79b9334/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX 5 New York" tvg-id="555119" tvg-logo="https://canvas.tubitv.com/opts/yzu7NVcJaimEmw==/293bcf25-0c51-48fe-a73f-be41364b0a8e/CHgQeDoFMS4xLjJAAQ==" group-title="Local News",FOX 5 New York
@@ -14,6 +30,10 @@ https://live-manifest.production-public.tubi.io/live/78391ebf-985c-4a49-869c-a19
 https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="News & Opinion" tvg-chno="1112",ABC News Live
 https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1 tvg-name="Discovery Bangla" tvg-id="51174" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ec/Discovery_hd_world_%28small_globe%29.png" group-title="National News",Discovery Bangla
+https://bosta-live.vercel.app/DiscoveryBengali.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="National News",Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/refs/heads/main/Animal-Planet.m3u8
 #EXTINF:-1 channel-id="samsung-USBB2200014DK" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News & Opinion" tvg-chno="1114",NBC News NOW
 https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="News & Opinion" tvg-chno="1116",LiveNOW from FOX

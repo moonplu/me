@@ -8,6 +8,8 @@ http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV" group-title="National News",Ekattor TV
 https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" group-title="National News",Somoy TV
+https://ythls-v3.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="National News",Channel I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs3D8vEtyGmhsERTa4-0KWFYSVm1PKIGArw&s" group-title="National News",RTV
@@ -46,6 +48,18 @@ https://jmp2.uk/sam-US4000033L.m3u8
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 channel-id="samsung-USBB1500001GD" tvg-id="USBB1500001GD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20241105T024247SQUARE.png" group-title="Life Stories & Culture" tvg-chno="2922",USA Today
 https://jmp2.uk/sam-USBB1500001GD.m3u8
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 ,Fox Sports 2 🇦🇷
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
+#EXTINF:-1 ,ESPN 🇦🇷
+http://168.227.131.66:8000/play/tfc0/index.m3u8
+#EXTINF:-1, SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1, Telemundo
+https://prodamdnbcmobile.akamaized.net/NBCU_Telemundo/1733009649913445/1/hls/index.m3u8
 #EXTINF:-1 channel-id="samsung-USBB1900006NY" tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png" group-title="Life Stories & Culture" tvg-chno="2938",VICE
 https://jmp2.uk/sam-USBB1900006NY.m3u8
 #EXTINF:-1 channel-id="samsung-USBC4400003OU" tvg-id="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20240528T020901SQUARE.png" group-title="News & Opinion" tvg-chno="1150",CBC News International

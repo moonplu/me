@@ -20,6 +20,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="National News",MY TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" group-title="National News",Disney Channel
+http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 tvg-name="POGO TV" group-title="National News",POGO TV
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-id="556174" tvg-logo="https://canvas.tubitv.com/opts/CGM972sEdvuVcQ==/a9097c5c-9374-49bd-b791-639fe3c02017/CHgQeDoFMS4xLjJAAQ==" group-title="National News",NBC News NOW

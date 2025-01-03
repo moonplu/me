@@ -9,7 +9,7 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV" group-title="National News",Ekattor TV
 https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="National News",Somoy TV
-https://ythls-v3.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+http://192.168.1.178:8001/stream/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="National News",Channel I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs3D8vEtyGmhsERTa4-0KWFYSVm1PKIGArw&s" group-title="National News",RTV

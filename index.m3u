@@ -10,20 +10,34 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="National News",Somoy TV
 http://192.168.1.178:8001/stream/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-1 tvg-name="Desh TV" group-title="National News",Desh TV
+http://192.168.1.178:8001/stream/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:-1 tvg-name="Channel 24" group-title="National News",Channel 24
+http://192.168.1.178:8001/stream/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 tvg-name="Dbc news" group-title="National News",Dbc news
+http://192.168.1.178:8001/stream/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="National News",NTV
+http://192.168.1.178:8001/stream/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="National News",Channel I
-https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+http://192.168.1.178:8001/stream/UCiAnEtQB96c-UHCgHrdMIsA.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs3D8vEtyGmhsERTa4-0KWFYSVm1PKIGArw&s" group-title="National News",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="National News",Jamuna TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+http://192.168.1.178:8001/stream/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-name="EKHON TV" group-title="National News",EKHON TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+http://192.168.1.178:8001/stream/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-name="MY TV" group-title="National News",MY TV
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV" group-title="National News",MY TV
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="National News",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="R TV" group-title="National News",R TV
+http://192.168.1.178:8001/stream/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="National News",Disney Channel
 http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="National News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="Madani Cartoon" group-title="National News",Madani Cartoon
+http://192.168.1.178:8001/stream/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
 #EXTINF:-1 tvg-name="POGO TV" group-title="National News",POGO TV
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-id="556174" tvg-logo="https://canvas.tubitv.com/opts/CGM972sEdvuVcQ==/a9097c5c-9374-49bd-b791-639fe3c02017/CHgQeDoFMS4xLjJAAQ==" group-title="National News",NBC News NOW

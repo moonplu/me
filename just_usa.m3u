@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-name="Time TV USA" tvg-id="56174" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ1iMIWlOlAjwVfASgeYmOWWh5_TMl9vlQw&s" group-title="National News",Time TV USA
-pipe://ffmpeg -i "https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8" -c copy -f mpegts pipe:1
+https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="TBN 24 USA" tvg-id="56174" tvg-logo="https://yt3.googleusercontent.com/VL0DP3c7YN2hmZk70-ohZRL4B5Uja-NitV_bu0-QSh9kO18xZ7Llc5uhyzrOG76y5CvDMTy48g=s900-c-k-c0x00ffffff-no-rj" group-title="National News",TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8
